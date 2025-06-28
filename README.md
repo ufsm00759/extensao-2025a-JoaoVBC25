@@ -1,7 +1,37 @@
 # Relatório de Extensão
+Este relatório tem o propósito de documentar as atividades, visitas e pesquisas coletivas e individuais realizadas durante e fora da cadeira Praticas Extensionistas na Educação em Computação
+
+## Aula 1
+Apresentação da disciplina e do docente por meio de uma dinâmica com os alunos. Cada aluno se apresentou, produziu um rápido auto-retrato no quadro e realizou uma pergunta pertinente a cadeira. No final da aula duas duplas de alunos ficaram encarregadas de pesquisar sobre o livro Extensão universitária: gestão, comunicação e desenvolvimento regional do pró-reitor de extensão da UFSM Flavi Ferreira Lisbôa Filho e sobre o projeto de extensão Flores para todos realizado pelo Centro de Ciências Rurais.
+
+## Aula 2
+Realização da dinamica da aula anterior com os alunos que não estavam presentes. Criada uma roda de conversa para a apresentação e discussão dos materiais pesquisados pelos colegas, o livro *Extensão universitária: gestão, comunicação e desenvolvimento regional* e o projeto *Flores para todos*
+
+## Aula 3
+Colegas que já participaram de projetos de extensão compartilharam suas experiências. Alunos que nunca participaram de nenhuma atividade de extensão pesquisaram ações extensionistas realizadas por universidades do Rio Grande do Sul e trouxeram para a aula as que os mais interessaram.
+
+## Aula 4
+Visita guiada ao Jardim Botânico da UFSM com o intuito de conhecer o local e as necessidades de seus integrantes.
+
+## Aula 5
+Discussão em sala sobre os assuntos abordados na visita ao Jardim Botânico.
+
+## Aula 6
+Aula relizada na sala de laborátorio da UFSM com o intuito de começar a produção dos relatórios da disciplina.
+
+## Aula 7
+Apresentação do documento BNNC Computação pesquisado por colegas.
+
+Aula 8
+Cancelada devido a suspensão das atividades da UFSM.
+
+Aula 9
+Turma distribuida em 3 grupos: Jardim Botânico, BNCC Computação e Exploratório.
+
+# Projeto BNCC Computação
 
 ## Introdução
-Este relatório tem o propósito de documentar as atividades, visitas e pesquisas coletivas e individuais realizadas durante e fora da cadeira _Praticas Extensionistas na Educação em Computação_. Após a realização de aulas teóricas sobre conceitos, métodos e boas praticas na realização de ações extensionistas, a turma foi dividida em três projetos separados,  com nosso grupo encarregado da **BNCC Computação**, complemento a Base Nacional Comum Curricular que tem o proposito de integrar a computação ao curriculo escolar.
+Após a realização de aulas teóricas sobre conceitos, métodos e boas praticas na realização de ações extensionistas, a turma foi dividida em três projetos separados,  com nosso grupo encarregado da **BNCC Computação**, complemento a Base Nacional Comum Curricular que tem o proposito de integrar a computação ao curriculo escolar.
 
 O objetivo principal do projeto era abordar os conteudos da BNCC Computação de forma didatica e acessivel para alunos e professores do ensino fundamental e médio, por meio da produção de atividades ludicas e educativas que desenvolvam o pensamento computacional dos alunos.
 
