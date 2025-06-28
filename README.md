@@ -1,5 +1,5 @@
 # Relatório de Extensão
-Este relatório tem o propósito de documentar as atividades, visitas e pesquisas coletivas e individuais realizadas durante e fora da cadeira Praticas Extensionistas na Educação em Computação
+Este relatório tem o propósito de documentar as atividades, visitas e pesquisas coletivas e individuais realizadas durante e fora da cadeira Praticas Extensionistas na Educação em Computação.
 
 ## Aula 1
 Apresentação da disciplina e do docente por meio de uma dinâmica com os alunos. Cada aluno se apresentou, produziu um rápido auto-retrato no quadro e realizou uma pergunta pertinente a cadeira. No final da aula duas duplas de alunos ficaram encarregadas de pesquisar sobre o livro Extensão universitária: gestão, comunicação e desenvolvimento regional do pró-reitor de extensão da UFSM Flavi Ferreira Lisbôa Filho e sobre o projeto de extensão Flores para todos realizado pelo Centro de Ciências Rurais.
@@ -22,10 +22,10 @@ Aula relizada na sala de laborátorio da UFSM com o intuito de começar a produ�
 ## Aula 7
 Apresentação do documento BNNC Computação pesquisado por colegas.
 
-Aula 8
+## Aula 8
 Cancelada devido a suspensão das atividades da UFSM.
 
-Aula 9
+## Aula 9
 Turma distribuida em 3 grupos: Jardim Botânico, BNCC Computação e Exploratório.
 
 # Projeto BNCC Computação
