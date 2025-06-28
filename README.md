@@ -35,6 +35,8 @@ A realização do projeto foi realizada com interação direta e constante com o
 ## Conclusão
 A disciplina de _Praticas Extensionistas na Educação em Computação_ e a realização do projeto da BNCC Computação foi muito importante para uma maior compreensão dos conceitos de extensão universitaria, alem de nos permitir aplicar os conhecimentos adquiridos na universidade em um ambiente real, produzindo um material que possa ser aplicado nas salas de aula da rede municipal.
 
+[Apostila](https://drive.google.com/file/d/12_lAvPoq6mV_Kwd6CjZF8DZUVk4I0e23/view)
+
 
 
 
